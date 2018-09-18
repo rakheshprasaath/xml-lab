@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ex4xsl.xsl"?>
+<books>
+ <book id="p1" class="special">
+  <name>agni</name>
+  <price>200</price>
+  <stock>3</stock>
+  <authorname>APJ</authorname>
+ </book>
+ <book id="p2">
+  <name>inspiring thoughts</name>
+  <price>350</price>
+  <stock>7</stock>
+  <author>APJ</author>
+ </book>
+<book id="p3">
+  <name>ramayanam</name>
+  <price>1000</price>
+  <stock>2</stock>
+  <author>vanmigi</author>
+ </book>
+
+</books>
